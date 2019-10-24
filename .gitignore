@@ -1,0 +1,16 @@
+﻿/.vs/
+/build/
+*.suo
+*.user
+*.sdf
+bin/
+obj/
+Debug/
+Release/
+*.opensdf
+*.tlog
+*.log
+*.vs
+*.dbmdl
+*.jfm
+*.pubxml
